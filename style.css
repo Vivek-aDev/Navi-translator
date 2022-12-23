@@ -31,6 +31,11 @@ button{
     text-align: center;
 }
 
+#header-output{
+    font-weight: bold;
+    font-size: large;
+}
+
 #output {
     border: 1px solid black;
     height: 10vh;
